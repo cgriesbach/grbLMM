@@ -1,11 +1,10 @@
 Package: grbLMM
 Type: Package
-Title: What the Package Does (Title Case)
+Title: Gradient Boosting for Linear Mixed Models
 Version: 0.1.0
-Author: Who wrote it
-Maintainer: The package maintainer <yourself@somewhere.net>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
+Author: Colin Griesbach
+Maintainer: Colin Griesbach <colin.griesbach@fau.de>
+Description: This package performs component-wise gradient boosting for linear mixed models with corrected and properly weighted updates of the random effects baselearner.
 License: What license is it under?
 Encoding: UTF-8
 LazyData: true
